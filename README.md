@@ -8,7 +8,7 @@ En este proyecto abordaremos un caso de estudio para la empresa Zuber, una nueva
 El objetivo de este análisis es poder contar con información y conclusiones suficientes acerca de las preferencias de los pasajeros, el impacto de los factores externos en los viajes, así como el flujo que mantienen nuestros competidores actuales. Todo lo anterior enfocado a la creación de estrategias que nos permitan tener un ingreso exitoso al mercado y priorizar la eficiencia de recursos (humanos y económicos) para llevar a cabo nuestra estrategia de mercado.
 
 ## 🛠 Etapas de finalización del proyecto
-Analizaremos los datos almacenados en el archivo `games.csv`. Aunque tenemos cierta información preliminar sobre los datos, necesitamos evaluar su calidad.
+Analizaremos los datos almacenados en los archivos  `project_sql_result_01.csv`, `project_sql_result_04.csv` y `project_sql_result_07.csv` . Aunque tenemos cierta información preliminar sobre los datos, necesitamos evaluar su calidad.
 
 Nuestro análisis implicará varias etapas:
 
